@@ -1,0 +1,7 @@
+
+subscription="aaaa-bbb-...."
+image_src="/subscriptions/aaaa-bbbb-..../resourceGroups/IMAGESTORE/providers/Microsoft.Compute/images/rhel76"
+
+rhsm_org_id="123456789"
+rhsm_activation_key="ocp-ak"
+rhsm_pool_id="987654321"
