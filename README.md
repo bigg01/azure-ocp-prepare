@@ -1,6 +1,7 @@
 # Azure deployment prepare
 
 For https://github.com/Microsoft/openshift-container-platform
+https://github.com/duritong/openshift-container-platform
 or
 Custom https://github.com/bigg01/openshift-container-platform
 
